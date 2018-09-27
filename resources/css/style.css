@@ -30,3 +30,8 @@ h3 {
   text-align: right;
   color: gray;
 }
+.image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
